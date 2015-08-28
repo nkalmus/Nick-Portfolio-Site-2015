@@ -1,0 +1,20 @@
+html {
+  border-top: 10px solid #ffbc44;
+}
+body {
+  color:#424242;
+  background:#fffff0;
+}
+a {
+  #ff4081;
+}
+a.hover {
+  #607d8b;
+}
+ul li {
+  display: inline-block;
+}
+img {
+  padding:20px;
+  margin:auto;
+}
